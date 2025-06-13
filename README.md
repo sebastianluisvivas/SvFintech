@@ -1,4 +1,9 @@
-API REST para gestión de usuarios desarrollada con Spring Boot y PostgreSQL, como parte de un proyecto de aprendizaje en desarrollo backend.
+
+Proyecto backend educativo desarrollado en Java con Spring Boot. Simula una API REST para gestionar usuarios y operaciones basicas como envío de montos entre usuarios y consulta de movimientos.
+
+Este proyecto forma parte de mi proceso de formación como desarrollador backend / QA. El objetivo fue aprender los conceptos esenciales de una API REST, mejorar lógica, manejo de datos en memoria y consumo de endpoints vía Postman.
+
+Desarrollada con Spring Boot y PostgreSQL, como parte de mi aprendizaje en desarrollo backend.
 
 
 ## 🌟 Características Principales
@@ -75,6 +80,20 @@ Validaciones:
 
 
 
+## 💡 ¿Qué aprendí con este proyecto?
+
+- Creación de APIs REST con Spring Boot
+- Definición de controladores y servicios
+- Uso de DTOs para la transferencia de datos
+- Simulación de lógica financiera básica (envíos, movimientos, saldos)
+- Estructuración de un proyecto backend con capas claras
+- Consumo y prueba de endpoints con Postman
+
+ ## ⚠️ Estado actual
+## 🚧 En Desarrollo
+Este proyecto está en una versión inicial. No incluye autenticación ni validaciones profundas. 
+Originalmente no tenía persistencia, pero fue extendido para conectarse con PostgreSQL. Está orientado a prácticas de aprendizaje y será mejorado en futuras versiones.
+
 
 ##  📦 Instalación y Configuración
 ## Requisitos:
@@ -85,7 +104,7 @@ Validaciones:
 
 ### Maven 3.8+
 
-## 🚧 En Desarrollo
+
 
 Sebastián Vivas
 LinkedIn  https://www.linkedin.com/in/sluisvivas/
